@@ -1,4 +1,4 @@
-# DataDocumentTemplate
+# Data Document Template
 Here lives the Data Document Template for capturing the project and dataset related metadata
 
 ## Intro
