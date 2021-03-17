@@ -19,7 +19,7 @@ see README tab in the respective file or contact:
   Bernhard Scheliga 
           
 ## Author:  
-Name | Email | Department |	Role (based on CRediT taxonomy)
+Name | Email | Department |	Role (based on [CRediT taxonomy](https://casrai.org/credit/))
 -----------|-------|--------|---------
 Claire Bell|	claire.bell@abdn.ac.uk|	DDIS|	Conceptualization,Investigation, Methodology, Writing – original draft, Writing – review & editing
 Jessica Butler|	jessicabutler@abdn.ac.uk|	ACHDS |	Funding acquisition, Conceptualization, Project administration
